@@ -27,7 +27,7 @@ print(p[keyPath: path]) //간접 참조
 KeyPath는 말 그대로 경로로써 참조하고 싶은 프로퍼티에 대한 경로를 프로퍼티 이름으로 나타낸다      
 ex) \Person.info.name     
 키 경로는 역슬래시( \ ) 와 타입, 마침표( . ) 경로로 구성된다.
-
+![21312](https://user-images.githubusercontent.com/83381672/176203765-838855e0-2b30-4866-964f-6d889dcd9fdb.png)
 KeyPath의 첫번째 타입파라미터는 루트에 해당하는 타입이 오고 두 번째 타입 파라미터는 참조하고자 하는 프로퍼티의 타입이 오게 된다.
 
 
