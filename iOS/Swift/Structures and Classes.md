@@ -26,7 +26,9 @@ Swift의 Struct와 Class에는 많은 공통점이 있습니다. 둘 다 다음�
 ```Swift
 let hd = Resolution(width: 1920, height: 1080)
 var cinema = hd
+
 ```
+![sharedStateStruct_2x](https://user-images.githubusercontent.com/83381672/178515128-b1717d91-aebf-4269-a3f7-d2220f01e305.png)
 
 ## Classes Are Reference Types
 값 타입과 달리 참조 타입은 변수나 상수에 값을 할당을 하거나 함수에 인자로 전달할 때 그 값이 복사되지 않고 참조 됩니다. 참조된다는 의미는 그 값을 갖고 있는 메모리를 바라보고 있다는 뜻 입니다. 예제를 보겠습니다.
@@ -41,3 +43,5 @@ tenEighty.frameRate = 25.0
 let alsoTenEighty = tenEighty
 alsoTenEighty.frameRate = 30.0
 ```
+![sharedStateClass_2x](https://user-images.githubusercontent.com/83381672/178515232-f10a9407-6f5c-49b9-894b-5b502f45f0bf.png)
+
