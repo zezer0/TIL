@@ -26,6 +26,7 @@ Swift의 Struct와 Class에는 많은 공통점이 있습니다. 둘 다 다음�
 ```Swift
 let hd = Resolution(width: 1920, height: 1080)
 var cinema = hd
+cinema.width = 2048
 
 ```
 ![sharedStateStruct_2x](https://user-images.githubusercontent.com/83381672/178515128-b1717d91-aebf-4269-a3f7-d2220f01e305.png)
