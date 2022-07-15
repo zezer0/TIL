@@ -1,6 +1,6 @@
 # iOS
 * Library
-  * [ReactorKit-Pulse](./iOS/Library/ReactorKit-Pulse.md)
+  * [ReactorKit-Pulse](./Library/ReactorKit-Pulse.md)
 * Swift
     * [KVC,KVO](./Swift/KVC,KVO.md)
     * [KeyPath](./Swift/KeyPath.md)
