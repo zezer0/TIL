@@ -36,3 +36,4 @@ let ages = ages.map { age in
 ```
 
 그리고 타입 추론의 성능이 많이 향샹됐다고 wwdc2022에서 발표됐다.
+![이미지](https://user-images.githubusercontent.com/83381672/182054317-0a50a8eb-c80a-44b8-83fb-47a913d936ec.png)
