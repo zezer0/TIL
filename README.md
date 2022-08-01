@@ -13,8 +13,8 @@
     * [Structures ans Classes](./iOS/Swift/Structures%20and%20Classes.md)
     * [Subscripts](./iOS/Swift/Subscripts.md)
     * [defer](./Swift/defer.md)
-    * [Version](./Swift/Version/)
-      * [Swift5.7](./Swift/Version/Swift5.7.md)
+    * [Version](./iOS/Swift/Version/)
+      * [Swift5.7](./iOS/Swift/Version/Swift5.7.md)
 * UI
     * [definesPresentationContext](./iOS/UI/definesPresentationContext.md)
 ## 도서
